@@ -1,5 +1,5 @@
 # samujack.github.io
 
-https://samujack.github.io/civial-jekyll
+<a href="https://samujack.github.io/civial-jekyll">civial-jekyll</a>
 
 https://samujack.github.io/civial-hugo
