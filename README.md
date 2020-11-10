@@ -9,3 +9,6 @@ Jekyll
 Hugo
 
 [https://samujack.github.io/civial-hero](https://samujack.github.io/civial-hero)
+
+
+[Tutorial de hugo](https://www.freecodecamp.org/news/hugo-vs-jekyll-battle-of-static-site-generator-themes/)
